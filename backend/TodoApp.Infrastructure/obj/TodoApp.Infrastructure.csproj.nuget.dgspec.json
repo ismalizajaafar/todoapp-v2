@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\TodoApp\\backend\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj": {}
+    "C:\\Users\\user\\todoapp-v2\\backend\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\TodoApp\\backend\\TodoApp.Application\\TodoApp.Application.csproj": {
+    "C:\\Users\\user\\todoapp-v2\\backend\\TodoApp.Application\\TodoApp.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\TodoApp\\backend\\TodoApp.Application\\TodoApp.Application.csproj",
+        "projectUniqueName": "C:\\Users\\user\\todoapp-v2\\backend\\TodoApp.Application\\TodoApp.Application.csproj",
         "projectName": "TodoApp.Application",
-        "projectPath": "C:\\Users\\user\\TodoApp\\backend\\TodoApp.Application\\TodoApp.Application.csproj",
+        "projectPath": "C:\\Users\\user\\todoapp-v2\\backend\\TodoApp.Application\\TodoApp.Application.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\TodoApp\\backend\\TodoApp.Application\\obj\\",
+        "outputPath": "C:\\Users\\user\\todoapp-v2\\backend\\TodoApp.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\user\\TodoApp\\backend\\TodoApp.Core\\TodoApp.Core.csproj": {
-                "projectPath": "C:\\Users\\user\\TodoApp\\backend\\TodoApp.Core\\TodoApp.Core.csproj"
+              "C:\\Users\\user\\todoapp-v2\\backend\\TodoApp.Core\\TodoApp.Core.csproj": {
+                "projectPath": "C:\\Users\\user\\todoapp-v2\\backend\\TodoApp.Core\\TodoApp.Core.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\user\\TodoApp\\backend\\TodoApp.Core\\TodoApp.Core.csproj": {
+    "C:\\Users\\user\\todoapp-v2\\backend\\TodoApp.Core\\TodoApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\TodoApp\\backend\\TodoApp.Core\\TodoApp.Core.csproj",
+        "projectUniqueName": "C:\\Users\\user\\todoapp-v2\\backend\\TodoApp.Core\\TodoApp.Core.csproj",
         "projectName": "TodoApp.Core",
-        "projectPath": "C:\\Users\\user\\TodoApp\\backend\\TodoApp.Core\\TodoApp.Core.csproj",
+        "projectPath": "C:\\Users\\user\\todoapp-v2\\backend\\TodoApp.Core\\TodoApp.Core.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\TodoApp\\backend\\TodoApp.Core\\obj\\",
+        "outputPath": "C:\\Users\\user\\todoapp-v2\\backend\\TodoApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -130,14 +130,14 @@
         }
       }
     },
-    "C:\\Users\\user\\TodoApp\\backend\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj": {
+    "C:\\Users\\user\\todoapp-v2\\backend\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\TodoApp\\backend\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\user\\todoapp-v2\\backend\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj",
         "projectName": "TodoApp.Infrastructure",
-        "projectPath": "C:\\Users\\user\\TodoApp\\backend\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\user\\todoapp-v2\\backend\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\TodoApp\\backend\\TodoApp.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\user\\todoapp-v2\\backend\\TodoApp.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -154,11 +154,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\user\\TodoApp\\backend\\TodoApp.Application\\TodoApp.Application.csproj": {
-                "projectPath": "C:\\Users\\user\\TodoApp\\backend\\TodoApp.Application\\TodoApp.Application.csproj"
+              "C:\\Users\\user\\todoapp-v2\\backend\\TodoApp.Application\\TodoApp.Application.csproj": {
+                "projectPath": "C:\\Users\\user\\todoapp-v2\\backend\\TodoApp.Application\\TodoApp.Application.csproj"
               },
-              "C:\\Users\\user\\TodoApp\\backend\\TodoApp.Core\\TodoApp.Core.csproj": {
-                "projectPath": "C:\\Users\\user\\TodoApp\\backend\\TodoApp.Core\\TodoApp.Core.csproj"
+              "C:\\Users\\user\\todoapp-v2\\backend\\TodoApp.Core\\TodoApp.Core.csproj": {
+                "projectPath": "C:\\Users\\user\\todoapp-v2\\backend\\TodoApp.Core\\TodoApp.Core.csproj"
               }
             }
           }

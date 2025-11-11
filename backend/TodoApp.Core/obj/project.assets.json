@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\TodoApp\\backend\\TodoApp.Core\\TodoApp.Core.csproj",
+      "projectUniqueName": "C:\\Users\\user\\todoapp-v2\\backend\\TodoApp.Core\\TodoApp.Core.csproj",
       "projectName": "TodoApp.Core",
-      "projectPath": "C:\\Users\\user\\TodoApp\\backend\\TodoApp.Core\\TodoApp.Core.csproj",
+      "projectPath": "C:\\Users\\user\\todoapp-v2\\backend\\TodoApp.Core\\TodoApp.Core.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\TodoApp\\backend\\TodoApp.Core\\obj\\",
+      "outputPath": "C:\\Users\\user\\todoapp-v2\\backend\\TodoApp.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
